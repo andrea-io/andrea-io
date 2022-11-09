@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, iOS App Development, UI/UX Redesigns**
 
+- 👨‍💻 All of my UI/UX projects are available at [Behance](https://www.behance.net/andreagonzalez119)
+
 - 💬 Ask me about **my time interning at Meta, navigating college, travelling**
 
 - 📫 How to reach me **andreag4@usc.edu**
