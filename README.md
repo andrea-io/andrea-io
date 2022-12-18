@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, iOS App Development, UI/UX Redesigns, and Android App Development**
 
-- 👨‍💻 All of my UI/UX projects are available at [Behance](https://www.behance.net/andreagonzalez119)
+- 👨‍💻 All of my UI/UX projects are available on **[Behance](https://www.behance.net/andreagonzalez119)**
 
 - 💬 Ask me about **my time interning at Meta, navigating college, travelling**
 
