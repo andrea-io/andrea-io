@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Gonzalez</h1>
 <h3 align="center">Computer Science student at USC</h3>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, iOS App Development, UI/UX Redesigns**
+- 🌱 I’m currently learning **Data Structures & Algorithms, iOS App Development, UI/UX Redesigns, and Android App Development**
 
 - 👨‍💻 All of my UI/UX projects are available at [Behance](https://www.behance.net/andreagonzalez119)
 
